@@ -1,0 +1,12 @@
+.Ad-container{
+    background-color: #F8FFF8 ;
+    flex-grow: 1;
+    width: 14vw;
+}
+.ad img{
+    width: 250px;
+    height: 300px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}

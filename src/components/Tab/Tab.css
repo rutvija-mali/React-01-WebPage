@@ -1,0 +1,21 @@
+.tab-item{
+    height: 40px;
+    width: 100%;
+    margin-bottom: 10px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+   
+ }
+.tab-item:hover{
+    /* background-color:#369286; */
+    color: #F8FFF8;
+   background-color: #1c2b34;
+    
+ }
+ .tab-item .text{
+     margin-left: 10px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }

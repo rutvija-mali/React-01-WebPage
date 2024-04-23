@@ -1,0 +1,33 @@
+.mainContainer
+{
+  background-color:  #121c22 ;
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  border-top: 0.7px solid #e7fae7;
+  
+}
+.footer ul{
+    display: flex;
+    justify-content:center;
+    align-self: center;
+    padding: 10px;
+   
+
+}
+.footer ul li{
+    list-style: none;
+  
+}
+.footer ul li a{
+  text-decoration: none;
+  padding: 20px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-weight: bold;
+  color: #F8FFF8;
+}
+.footer ul li a:hover{
+    text-decoration: underline;
+    color:#FFF4A3 ;
+}

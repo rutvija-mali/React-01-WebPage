@@ -1,0 +1,33 @@
+.container{
+ 
+    height: auto;
+    
+}
+
+
+
+.content{
+    width: 90%;
+  
+}
+
+.codeContainer{
+   width: 90%;
+   background-color:#DBF7F1;
+   color: #344B47;
+   padding: 15px;
+  
+   border-radius: 0.5%;
+}
+.codeDiv{
+    padding: 10px;
+    background-color:#1c2b34;
+    color:#F8FFF8 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    overflow: auto;
+    border-radius: 0.5%;
+}
+
+/* #369286
+#121c22 */

@@ -1,0 +1,23 @@
+.navbar{
+    height: 70px;
+    width: 100vw;
+    background-color: #F8FFF8;
+    display: flex;
+    justify-content: left;
+    
+}
+.nav-item{
+    height: 70px;
+    width: 120px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav-item:hover{
+    /* background-color:#369286 ; */
+    color: #F8FFF8;
+    background-color: #1c2b34;
+   
+}
